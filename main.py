@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 # Step 1: Read Data from Excel Files
 vacant_units_df = pd.read_excel('data/vacant_units.xlsx')
